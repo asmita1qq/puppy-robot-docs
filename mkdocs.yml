@@ -1,0 +1,5 @@
+site_name: Puppy Robot Documentation
+theme:
+  name: material
+nav:
+  - Home: index.md
